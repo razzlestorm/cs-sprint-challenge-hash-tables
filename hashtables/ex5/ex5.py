@@ -6,7 +6,7 @@ def finder(files, queries):
     """
     YOUR CODE HERE
     """
-    # Your code here
+    
 
     return result
 

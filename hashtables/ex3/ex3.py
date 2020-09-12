@@ -1,7 +1,8 @@
 from typing import List
 def intersection(arrays: List) -> List:
     """
-    YOUR CODE HERE
+    NOTE: This current implementation only works
+    becuase there are no duplicates in individual arrays
     """
     result = {}
     intersects = {}
